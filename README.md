@@ -28,7 +28,6 @@ To use the trained NMT model for translation:
 2. Install the necessary dependencies (e.g., TensorFlow, NumPy).
 3. Ensure you have the required dataset files in the 'data' directory.
 4. Run the following command to train the model:
-
 ```python nmt.py train```
 
 This will train the model using the provided training data.
